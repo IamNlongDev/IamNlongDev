@@ -28,11 +28,11 @@
 </head>
 <body>
     <div class="profile">
-        <h1>Đinh Ngọc Long</h1>
+        <h1>Nguyễn Văn A</h1>
         <p>Front-end Developer</p>
-        <p>Email: longdn1503@gmail.com</p>
-        <p>Phone: 0858157565</p>
-        <p><a href="https://github.com/IamNlongDev">GitHub</a></p>
+        <p>Email: nguyenvana@example.com</p>
+        <p>Phone: 0123 456 789</p>
+        <p><a href="https://github.com/nguyenvana">GitHub</a></p>
     </div>
 </body>
 </html>
